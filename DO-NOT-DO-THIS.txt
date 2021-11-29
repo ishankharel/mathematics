@@ -2,8 +2,8 @@ I know we should not work on "main" branch.
 
 Luckily this is only test and we are learning.
 
-Making changes to "main" repo.
+Making changes to "main" branch.
 
-I am adding a file to "main" repo.
+I am adding a file to "main" branch.
 
 Not making any changes to the existing file.
